@@ -1,7 +1,7 @@
 /*
 Copyright Alex Leone, David Nufer, David Truong, 2011-03-11. kathack.com
 
-Mirrored by Ýlteriþ Eroðlu, 8/3/2015 12:02 AM https://linuxgemini.github.io/katamari-mirror/
+Mirrored by Ilteris Eroglu, 8/3/2015 12:02 AM https://linuxgemini.github.io/katamari-mirror/
 
 javascript:var i,s,ss=['https://linuxgemini.github.io/katamari-mirror/kh.js','https://linuxgemini.github.io/katamari-mirror/jquery.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
 
