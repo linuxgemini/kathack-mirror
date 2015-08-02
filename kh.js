@@ -1,7 +1,9 @@
 /*
 Copyright Alex Leone, David Nufer, David Truong, 2011-03-11. kathack.com
 
-javascript:var i,s,ss=['http://kathack.com/js/kh.js','http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
+Mirrored by Ýlteriþ Eroðlu, 8/3/2015 12:02 AM https://linuxgemini.github.io/katamari-mirror/
+
+javascript:var i,s,ss=['https://linuxgemini.github.io/katamari-mirror/kh.js','https://linuxgemini.github.io/katamari-mirror/jquery.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
 
 */
 var BORDER_STYLE = "1px solid #bbb",
