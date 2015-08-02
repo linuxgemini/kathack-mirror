@@ -15,4 +15,4 @@ This mirror is made for sites that use SSL.
 
 Usage
 --------
-Drag [Katamari!](javascript:var i,s,ss=['https://linuxgemini.github.io/kathack-mirror/kh.js','https://linuxgemini.github.io/kathack-mirror/jquery.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);) to your bookmarks.
+Drag [I'm an inline-style link](https://www.google.com) to your bookmarks.
