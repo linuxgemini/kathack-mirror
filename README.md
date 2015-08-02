@@ -11,4 +11,4 @@ Why you made a mirror of it?
 --------
 This mirror is made for sites that use SSL.
 
-* (Most of the browsers have blockers for scripts that is hosted on unsecured sites.)
+(Most of the browsers have blockers for scripts that is hosted on unsecured sites.)
