@@ -1,4 +1,4 @@
-katamari-mirror
+katahack-mirror
 =========================
 
 Introduction
