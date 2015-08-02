@@ -15,4 +15,4 @@ This mirror is made for sites that use SSL.
 
 Usage
 --------
-Drag [I'm an inline-style link](https://www.google.com) to your bookmarks.
+Go to [here.](https://linuxgemini.github.io/kathack-mirror/#usage) (It is safe, It redirects you to Github Page of it.)
