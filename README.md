@@ -12,3 +12,7 @@ Why you made a mirror of it?
 This mirror is made for sites that use SSL.
 
 (Most of the browsers have blockers for scripts that is hosted on unsecured sites.)
+
+Usage
+--------
+Drag <dl><a onclick="return alert('Drag this link to your bookmarks'),false;" href="javascript:var i,s,ss=['https://linuxgemini.github.io/kathack-mirror/kh.js','https://linuxgemini.github.io/kathack-mirror/jquery.min.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);">Katamari!</a></dl> to your bookmarks.
